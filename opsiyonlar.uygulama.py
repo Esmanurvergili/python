@@ -39,4 +39,4 @@ def tambolenleribul(sayi):
              tambolenler.append(i)
 
     return tambolenler
-print(tambolenleribul(20)
+print(tambolenleribul(20))
